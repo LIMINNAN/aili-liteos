@@ -1,0 +1,1 @@
+GEN_CSRCS += _main_page_480x480.c _main_page_alpha_204x204.c _Applogo026_92x92.c _Applogo018_92x92.c _Applogo013_92x92.c _Applogo002_92x92.c _Applogo001_92x92.c _Applogo005_92x92.c _wifi_alpha_32x32.c _bluetooth_connected_alpha_32x32.c _hour_needle_white_alpha_70x8.c _min_needle_white_alpha_105x8.c _second_needle_2_alpha_130x5.c
