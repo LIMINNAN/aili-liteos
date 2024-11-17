@@ -101,7 +101,7 @@ static void psram_winbond_default_init(void) {
     PSRAM_Ctrl_Cfg_Type default_psram_ctrl_cfg = {
         .vendor = PSRAM_CTRL_VENDOR_WINBOND,
         .ioMode = PSRAM_CTRL_X8_MODE,
-        .size = PSRAM_SIZE_4MB,
+        .size = PSRAM_SIZE_8MB,
         .dqs_delay = 0xfff0,
     };
 
